@@ -1,0 +1,6 @@
+{
+  "presets": ["env", "react"],
+  "plugins": [
+    "./plugins/small-compiler.ts"
+  ]
+}
